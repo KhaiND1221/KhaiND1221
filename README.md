@@ -42,8 +42,6 @@
 | [AWS_Malware_Scanner](https://github.com/KhaiND1221/AWS_Malware_Scanner) | Event-driven serverless malware scanning pipeline: S3 → Lambda → VirusTotal, with SNS alerts and CloudWatch monitoring |
 | [neurax-ai-web-app](https://github.com/KhaiND1221/neurax-ai-web-app) | NutriTrack 2.0 team app (React Native + AWS Amplify) built in the First Cloud AI Journey bootcamp — I worked on Cognito/IAM access control, testing, and serverless workflow troubleshooting |
 | [FCAJ-intership-report](https://github.com/KhaiND1221/FCAJ-intership-report) | Portfolio documenting a 12-week FCAJ Cloud Intern journey: bilingual worklogs, workshops, self-evaluation |
-| [SOC_demo](https://github.com/KhaiND1221/SOC_demo) | Task-manager web app on Docker: static frontend → Nginx → FastAPI → PostgreSQL |
-| [demo-docker](https://github.com/KhaiND1221/demo-docker) | Multi-container e-commerce demo (React, Node/Express, PostgreSQL, Redis) with docker-compose |
 
 ## ⚙️ Languages & Tools
 <p align="center">
